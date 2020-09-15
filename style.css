@@ -27,7 +27,7 @@ a {
   text-decoration: none;
 }
 
-a:focus{
+a:focus {
   cursor: pointer;
 }
 
